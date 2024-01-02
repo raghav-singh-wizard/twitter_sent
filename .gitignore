@@ -1,0 +1,10 @@
+__pycache__/
+
+# Ignore .pyc files
+*.pyc
+
+build/
+
+dist/
+.vscode/
+/twitterSentiment
