@@ -1,0 +1,23 @@
+# EDA of Data
+
+### Null Values:
+
+-  We can see the null values from the below information
+
+![Alt text](image-1.png)
+
+-  we can see there are multiple rows NaN for the column emotion_tweet_is_directed_at
+- Below is Vizualization of above columns
+![Alt text](image-2.png)
+
+
+### Imbalance Dataset:
+
+-  Dataset is highly imbalance as we can see below
+![Alt text](image-3.png)
+- Negative emotion and can't tell are the lowest one.
+- ![Alt text](image-5.png)
+### products Emotions
+- We have also checked what kind of emotions have for each kind of product
+![Alt text](image-4.png)
+- We can see for each unique product we have most of the positive sentiments for each product.
